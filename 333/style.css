@@ -1,0 +1,163 @@
+body{
+	margin:0px;
+}
+.wrapper{
+	margin:0 auto;
+	width: 960px;
+}
+
+.top{
+	width:100%;
+	margin:0px;
+	position: relative;
+}
+img{
+	width: 100%;
+}
+
+
+.hx{
+	width: 100%;
+	position: absolute;
+}
+
+.hx h1{
+	font-family: 'Varela Round';
+	font-size: 2.4em;
+	margin-top:-154.7%;
+	text-align: center;
+	margin-left: 162%;
+}
+
+.hx h2{
+	font-family: 'Varela Round';
+    font-size: 2.4em;
+    margin-top: -23%;
+    color: #ccd5e5;
+    margin-left: 265%;
+
+}
+
+.hx h6{
+	font-size: 1em;
+    margin-left: 39%;
+    margin-top: -27%;
+    color: #ccd5e6;
+}
+
+.hx input{
+	background:rgba(61, 201, 179, 1);
+	border-radius: 10px;
+	width: 290px;
+	height: 70px;
+	margin-top: -23%;
+    margin-left: 40%;
+	position: absolute;
+	font-size: 1em;
+}
+
+.hx input:hover{
+	background: #17ede9;
+}
+
+.hx span{
+	position: absolute;
+}
+.backgorund{
+	background: #d5dde8;
+}
+.topcenter{
+	width: 100%;
+}
+
+.topcenter h3 {
+	text-align: center;
+	margin-top: 80px;
+	font-size: 0.8em;
+}
+
+.backgorund1{
+	height: 300px;
+	margin-top: -2%;
+	width: 100%;
+	background: #d5dde8;
+}
+
+.topcenter img{
+	margin-left: 43%;
+    width: 210px;
+    height: 15px;
+    margin-top: 1%;
+}
+
+.topbottom{
+	color:#353535;
+	width:50%;
+	height:20%;
+	margin-left: 25%;
+}
+
+.topbottom p{
+	text-align: center;
+	margin-top: 50px;
+	 color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+
+
+.center{
+	width: 100%;
+	background: green;
+}
+
+.lovewhat h2{
+	margin-top: 5%;
+	text-align: center;
+}
+
+
+.center img{
+	margin-left: 43%;
+    width: 210px;
+    height: 15px;
+    margin-top: 1%;
+}
+
+
+.icon1 {
+    margin-top: 4%;
+    margin-left: 15.4%;
+	display:inline-block;
+	width: 200px;
+	height: 200px;
+	background: #3dc9b3;
+	border-radius: 50%;
+}
+
+.icon1 h2{
+	margin-left:23%;
+}
+
+.icon2 {
+	margin-left: 15%;
+	display:inline-block;
+	width: 200px;
+	height: 200px;
+	background: #3dc9b3;
+	border-radius: 50%;
+}
+
+.icon3 {
+	margin-left: 15%;
+	display:inline-block;
+	width: 200px;
+	height: 200px;
+    background: #3dc9b3;
+    border-radius: 50%;
+}
+
+.img{
+
+}
